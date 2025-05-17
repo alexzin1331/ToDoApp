@@ -1,0 +1,9 @@
+pip~=25.0.1
+fastapi~=0.115.12
+pydantic~=2.11.4
+SQLAlchemy~=2.0.40
+cryptography~=44.0.3
+python-jose~=3.4.0
+passlib~=1.7.4
+starlette~=0.46.2
+
